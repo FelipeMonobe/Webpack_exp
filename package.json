@@ -1,0 +1,27 @@
+{
+  "name": "webpack_exp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "webpack": "webpack --progress --colors"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FelipeMonobe/Webpack_exp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FelipeMonobe/Webpack_exp/issues"
+  },
+  "homepage": "https://github.com/FelipeMonobe/Webpack_exp#readme",
+  "devDependencies": {
+    "webpack": "^1.13.0"
+  },
+  "dependencies": {
+    "css-loader": "^0.23.1",
+    "left-pad": "^1.0.2",
+    "style-loader": "^0.13.1"
+  }
+}
